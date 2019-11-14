@@ -218,6 +218,8 @@ sw.createExpense({
 
 ## Notes
 
+This SDK only enables accessing the user data belonging to the owner of the linked splitwise application. If you want to enable users to access their own data for use in your application you will need to go with another solution.
+
 Here is a potential alternative to this package: https://github.com/Dean177/splitwise-node
 
 ## License
